@@ -1,4 +1,4 @@
-p# 🏋️‍♂️ Live Fit - Your Personal Fitness Companion 📱
+# 🏋️‍♂️ Live Fit - Your Personal Fitness Companion 📱
 
 Welcome to **Live Fit**, an all-in-one Android app designed to help you stay fit and healthy! Built using **Kotlin** and **XML** in **Android Studio**, this app comes packed with essential tools to keep you on track with your fitness goals.
 
