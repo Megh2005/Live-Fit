@@ -12,8 +12,10 @@ Welcome to **Live Fit**, an all-in-one Android app designed to help you stay fit
 ## 🏞️ Screenshots
 
 <p align="center">
-  <img src="link-to-screenshot1" alt="Live Fit App Screenshot" width="250"/>
-  <img src="link-to-screenshot2" alt="Live Fit App Screenshot" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7a620bef-3da0-4a73-a53e-fe308322c604" alt="Live Fit App Screenshot" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8b954fbf-75c3-4a00-a03e-b13c99756acd" alt="Live Fit App Screenshot" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9cd2812a-3743-4710-897c-305ec5ae7852" alt="Live Fit App Screenshot" width="250"/>
+  <img src="https://github.com/user-attachments/assets/de384d3d-16b1-4208-ab6c-5071cba7de11" alt="Live Fit App Screenshot" width="250"/>
 </p>
 
 ## 🛠️ Technology Stack
